@@ -1,1 +1,36 @@
 /* Place CSS styles here */
+
+h2 {
+    color: blue;
+  }
+  
+  .uglybutton {
+    color: orange;
+  }
+  
+  #container {
+    color: purple;
+  }
+  
+  .button {
+    background-color: #3e299b;
+    color: #efefef;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    padding: 12px;
+  }
+  
+  .button:hover,
+  .button:focus {
+    background-color: #d3d136;
+  }
+  
+  .button:focus {
+    border: 1px solid #d3d136;
+  }
+  
+  .button-small {
+    font-size: 12px;
+  }
+  
